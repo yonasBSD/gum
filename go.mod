@@ -17,7 +17,7 @@ require (
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70 // indirect
 	github.com/muesli/mango v0.2.0 // indirect
 	github.com/muesli/roff v0.1.0
-	github.com/muesli/termenv v0.13.0
+	github.com/muesli/termenv v0.15.1
 	github.com/sahilm/fuzzy v0.1.0
 	github.com/yuin/goldmark v1.5.2 // indirect
 	golang.org/x/net v0.0.0-20221017152216-f25eb7ecb193 // indirect
